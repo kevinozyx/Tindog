@@ -66,10 +66,12 @@ line-height: 1.5;
 }
 
 /* Title Section */
+#title{
+    text-align: left;
+}
 
 #title .container-fluid {
   padding: 3% 15% 7%;
-  text-align: left;
 }
 /* Hierarchical Selector - Parent child (element .class) */
 /* The order is ID Class Element */
